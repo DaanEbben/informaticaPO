@@ -1,0 +1,197 @@
+
+
+div.scrollmenu a {
+  display: inline-block;
+  color: rgb(49, 6, 236);
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+  background-color: rgb(183, 183, 243);
+}
+div.scrollmenu { 
+  background-color: rgb(141, 137, 137);
+  overflow: auto;
+  white-space: nowrap;
+}
+
+
+p {
+  color:blue;
+}
+
+h1 {
+  color:grey;
+}
+img {
+  background-color: grey;
+}
+
+h2 {
+  color:green;
+}
+ 
+ strong {
+   font-style:italic;
+   color:black;
+   background-color:yellow;
+ }
+ 
+ li {
+   margin-left:auto;
+   margin-right:auto;
+   width:70%;
+   color:blue;
+   background-color:rgb(175, 172, 172);
+ }
+ 
+input[type=text] {
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0 10px 0px;
+  box-sizing: border-box;
+  border: 6px groove rgb(133, 100, 224);
+  background-color: #3CBC8D;
+  color: white;
+}
+form {
+ background-color:rgb(170, 166, 166);
+  color :red;
+}
+
+.foto { 
+  border :6px solid red;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+}
+
+#contacth1 {
+  font-style:italic;
+  color:blue;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+#contact-li {
+  font-style:oblique;
+  color:blue;
+    margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  font-size:1.3em;
+  background-color:rgb(207, 206, 206);
+}
+
+#nieuw-lid {
+  color:yellow;
+  background-color:blue;
+}
+
+.contact-h2 {
+  color:green;
+ font-style:oblique;
+}
+
+.contact-p {
+  color:rgb(0, 0, 192);
+  font-style:oblique;
+  font-size:1.1em;
+}
+
+a:hover {
+ 
+ color:red;
+  background-color:green;
+}
+
+#home-h1 {
+  color :#F50821;
+  background-color:yellow;
+   margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+#home-algemeen {
+  background-color:rgb(255, 218, 218);
+}
+
+#Alan-h1 {
+  color:#65E007;
+  background-color:yellow;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+#Alan-algemeen {
+  background-color:rgb(219, 253, 220);
+  color:blue;
+}
+
+#contact-algemeen {
+ background-color:rgb(207, 206, 206);
+}
+
+
+
+#ul-Alan {
+  color:rgb(4, 4, 179);
+  font-style:italic;
+}
+
+.list-home {
+  font-style:italic;
+}
+
+#Alonzo-algemeen {
+  background-color:rgb(218, 218, 252);
+}
+
+#Alonzo-h1 {
+  color:#185FEA;
+  background-color:yellow;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+
+#Claude-h1 {
+  color:rgb(95, 250, 255);
+  background-color:yellow;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+#Claude-algemeen {
+  background-color:rgb(248, 244, 193);
+}
+
+.Edgar-algemeen {
+  background-color:rgb(250, 225, 242);
+}
+
+#Edgar-h1 {
+  color:#F11AAA;
+  background-color:yellow;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+#ol-Edsger {
+  color:rgb(4, 4, 179);
+  font-style:italic;
+}
+
+#header {
+  color:blue;
+}
